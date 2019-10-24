@@ -11,3 +11,6 @@ Sonra ilgili dosyayı editliyoruz.
 Sonra Commit diyoruz.
 Open a Pull Request yapıyoruz.
 
+Tekrar denemede edit.
+
+
