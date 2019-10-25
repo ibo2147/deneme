@@ -15,5 +15,4 @@ Tekrar denemede edit.
 
 ilave 1
 
-
-
+ibo2147B olarak ekledim...
